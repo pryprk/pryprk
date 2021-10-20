@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @pryprk
-- 📫 How to reach me ...
+- Hi, I’m @pryprk
 
 <!---
 pryprk/pryprk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
